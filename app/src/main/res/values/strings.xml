@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">계산기</string>
+    <string name="text_result">숫자를 입력해주세요!</string>
+</resources>
